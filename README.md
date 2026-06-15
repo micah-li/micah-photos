@@ -1,7 +1,8 @@
 ## Structure 
 The file structure here is not too difficult: 
 
-```├── categories/
+```
+├── categories/
 │   ├── photos /
 │   │   └── photo-folder/
 │   │       └── photo.png
